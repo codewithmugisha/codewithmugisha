@@ -1,7 +1,15 @@
-ForwardIQ is an agentic business operating system that replaces manual business workflows with autonomous AI agents.
+ForwardIQ — AI Agent Operating System for Real Businesses
 
-We connect to real-world businesses through WhatsApp (Twilio), creating a real-time digital twin of their operations — handling customer communication, scheduling, inventory, and decision-making through a conversational interface.
+Small and medium businesses run on fragmented tools, spreadsheets, and manual phone calls. ForwardIQ replaces that with a unified AI-powered operating system — connecting WhatsApp, real-time data, and intelligent agents into one platform.
 
-Multi-tenant SaaS. Microservice architecture. Built for scale.
+WhatsApp `→` AI Orchestrator `→` Microservices `→` Digital Twin `→` Response
 
-Every small business still runs on spreadsheets, phone calls, and sticky notes. We're building the OS that makes them autonomous.
+- Agentic AI for decision-making and workflow automation
+- WhatsApp integration via Twilio
+- Event-driven microservice architecture
+- Real-time business digital twin
+- Multi-tenant SaaS
+
+Currently in architecture and MVP planning phase.
+
+Follow development on GitHub.
